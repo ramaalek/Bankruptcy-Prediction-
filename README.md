@@ -1,0 +1,1 @@
+This project focuses on predicting the probability of corporate bankruptcy using financial and operational metrics. Built with SAS Enterprise Miner, we explored multiple machine learning techniques including polynomial regression, gradient boosted trees (GBT), and neural networks—and combined them into an ensemble model to maximize predictive accuracy and robustness.
